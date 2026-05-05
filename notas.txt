@@ -1,0 +1,191 @@
+================================================================================
+NOTAS DEL PROYECTO - ENISA WEB MEJORADA
+================================================================================
+
+FECHA DE CREACIÓN: 5 de Mayo de 2026
+UBICACIÓN: C:\Users\guill\Proyectos\Web 3 Enisa
+
+================================================================================
+DATOS DEL PROYECTO
+================================================================================
+
+NOMBRE: ENISA - Sitio Web Mejorado
+TIPO: Sitio web corporativo
+SECTOR: Servicios aduaneros y comercio exterior
+UBICACIÓN: Mendoza, Argentina
+
+================================================================================
+DATOS DE CONTACTO ENISA
+================================================================================
+
+Teléfono: +54 261 652-4481
+Email: administracion@enisa.com.ar
+Email Importaciones: importaciones@enisa.com.ar
+Email Exportaciones: exportaciones@enisa.com.ar
+Portal Cliente: https://panel.enisa.com.ar/
+
+Ubicación:
+- Puerto Terrestre Mendoza (PTM)
+- Zona Franca, Mendoza, Argentina
+
+================================================================================
+ESTRUCTURA DEL PROYECTO
+================================================================================
+
+Web 3 Enisa/
+├── index.html          (27 KB) - Página principal
+├── css/
+│   └── styles.css      (19 KB) - Estilos CSS
+├── js/
+│   └── scripts.js      (10 KB) - JavaScript
+├── assets/
+│   └── images/         - Imágenes
+├── README.md           - Documentación
+├── .gitignore          - Configuración Git
+└── notas.txt           - Este archivo
+
+================================================================================
+MEJORAS IMPLEMENTADAS vs SITIO ORIGINAL
+================================================================================
+
+| Aspecto         | Antes (enisa.com.ar)   | Ahora                    |
+|-----------------|------------------------|--------------------------|
+| Hero            | Imagen + texto básico | Título + stats + CTAs    |
+| Navegación      | Basic                  | Sticky + menú móvil      |
+| Servicios       | 6 servicios simples    | 6 servicios + iconos     |
+| Nosotros        | Solo texto             | Features + imagen        |
+| Testimonios     | Genéricos              | Con rating + empresa    |
+| Contacto        | Formulario básico      | Campos específicos      |
+| WhatsApp        | NO                     | Botón flotante           |
+| Animaciones     | NO                     | Scroll + contador        |
+| Footer          | Básico                 | 4 columnas               |
+| Responsive      | Limitado               | Completamente adaptado   |
+
+================================================================================
+REPOSITORIO GITHUB
+================================================================================
+
+Usuario GitHub: SupportGetAccess
+Repo Name: web-3-enisa
+URL Repo: https://github.com/SupportGetAccess/web-3-enisa
+
+COMANDOS USADOS:
+- git init
+- git add .
+- git commit -m "Mensaje"
+- git remote add origin https://github.com/SupportGetAccess/web-3-enisa.git
+- git push -u origin master
+
+================================================================================
+CÓMO PUBLICAR EN GITHUB PAGES (URL PÚBLICA)
+================================================================================
+
+1. Ir a: https://github.com/SupportGetAccess/web-3-enisa/settings/pages
+
+2. En "Source":
+   - Branch: master
+   - Folder: / (root)
+
+3. Click en "Save"
+
+4. Esperar 1-2 minutos
+
+5. URL resultante: https://supportgetaccess.github.io/web-3-enisa/
+
+================================================================================
+TECNOLOGÍAS UTILIZADAS
+================================================================================
+
+- HTML5
+- CSS3 (Flexbox, Grid, Variables CSS)
+- JavaScript Vanilla
+- Font Awesome 6.5.1 (iconos)
+- Google Fonts (Inter, Poppins)
+- Imágenes de Unsplash
+
+================================================================================
+CARACTERÍSTICAS IMPLEMENTADAS
+================================================================================
+
+FASE 1 - CONTENIDO:
+[x] Hero Section renovado
+[x] Navegación sticky
+[x] 6 servicios con iconos
+[x] Sección Nosotros
+[x] Testimonios con estrellas
+[x] Formulario contacto avanzado
+[x] Footer completo
+
+FASE 2 - DISEÑO UI/UX:
+[x] Diseño responsive
+[x] Animaciones suaves
+[x] Efectos hover
+[x] Botón WhatsApp flotante
+[x] Iconos en servicios
+
+FASE 3 - FUNCIONALIDAD:
+[x] Smooth scroll
+[x] Menú mobile hamburger
+[x] Validación de formularios
+[x] Animaciones al scroll
+
+FASE 4 - CONFIANZA:
+[x] Estadísticas animadas (15.000+, 270+, 20+)
+[x] Sección de aliados
+[x] Info de contacto completa
+[x] Badges de experiencia
+
+================================================================================
+PRÓXIMAS MEJORAS SUGERIDAS
+================================================================================
+
+1. ALTA PRIORIDAD:
+   - Portal de cliente con login
+   - Blog/Noticias con artículos
+   - Sistema de seguimiento online
+
+2. MEDIA PRIORIDAD:
+   - Cotizador online
+   - Botón WhatsApp con notificaciones
+   - FAQ (preguntas frecuentes)
+
+3. BAJA PRIORIDAD:
+   - Múltiples idiomas (español/inglés)
+   - Animaciones más elaboradas
+   - Video en hero section
+
+================================================================================
+REFERENCIAS DE COMPETIDORES ANALIZADOS
+================================================================================
+
+1. Dynamic Logistics (dynamiclogistics.com.ar)
+   - APP + portal de cliente
+   - Cotizador online
+   - Blog
+
+2. DASA (despachantesaduana.com)
+   - Portal DASA Online
+   - Blog activo
+   - 60+ profesionales
+
+3. Geodis (geodis.com)
+   - IRIS herramienta online
+   - Blog y recursos
+   - Multiidioma
+
+4. Cuatro Neuronas (cuatroneuronas.com)
+   - Sistema en la nube
+   - Seguimiento 24/7
+   - Notificaciones WhatsApp
+
+================================================================================
+NOTAS ADICIONALES
+================================================================================
+
+- El sitio original está en Zyrosite
+- El proyecto actual es standalone (HTML/CSS/JS)
+- No requiere backend por ahora
+- Las imágenes usan URLs externas (Unsplash)
+- El formulario valida client-side (no envía a ningún servidor)
+
+================================================================================
