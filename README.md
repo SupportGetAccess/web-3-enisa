@@ -3,6 +3,10 @@
 ## Descripción
 Sitio web corporativo para ENISA, empresa de servicios aduaneros y comercio exterior en Mendoza, Argentina.
 
+## 🌐 Ver Online
+
+El sitio está publicado en: **https://supportgetaccess.github.io/web-3-enisa/**
+
 ## Estructura del Proyecto
 
 ```
@@ -16,35 +20,43 @@ Web 3 Enisa/
     └── images/         # Imágenes del proyecto
 ```
 
+## Cómo Publicar en GitHub Pages
+
+1. Ir a: https://github.com/SupportGetAccess/web-3-enisa/settings/pages
+2. En **Source**, seleccionar "Deploy from a branch"
+3. En **Branch**, seleccionar "master" y carpeta "/ (root)"
+4. Click en **Save**
+5. Esperar 1-2 minutos y la URL estará activa
+
 ## Características Implementadas
 
 ### Fase 1 - Contenido y Estructura
-- [x] Hero Section renovado
-- [x] Navegación mejorada con sticky header
-- [x] Sección de servicios con iconos
-- [x] Sección de nosotros mejorada
-- [x] Testimonios con diseño profesional
-- [x] Formulario de contacto avanzado
-- [x] Footer completo
+- ✅ Hero Section renovada
+- ✅ Navegación mejorada con sticky header
+- ✅ Sección de servicios con iconos
+- ✅ Sección de nosotros mejorada
+- ✅ Testimonios con diseño profesional
+- ✅ Formulario de contacto avanzado
+- ✅ Footer completo
 
 ### Fase 2 - Diseño UI/UX
-- [x] Diseño responsive
-- [x] Animaciones suaves
-- [x] Efectos hover en tarjetas
-- [x] Botón flotante de WhatsApp
-- [x] Iconos para servicios
+- ✅ Diseño responsive
+- ✅ Animaciones suaves
+- ✅ Efectos hover en tarjetas
+- ✅ Botón flotante de WhatsApp
+- ✅ Iconos para servicios
 
 ### Fase 3 - Funcionalidades
-- [x] Navegación suave (smooth scroll)
-- [x] Menú móvil (hamburger)
-- [x] Validación de formularios
-- [x] Animaciones al scroll
+- ✅ Navegación suave (smooth scroll)
+- ✅ Menú móvil (hamburger)
+- ✅ Validación de formularios
+- ✅ Animaciones al scroll
 
 ### Fase 4 - Confianza y SEO
-- [x] Sección de estadísticas/resultados
-- [x] Logos de servicios/aliados
-- [x] Certificaciones visibles
-- [x] Información de contacto completa
+- ✅ Sección de estadísticas/resultados
+- ✅ Logos de servicios/aliados
+- ✅ Certificaciones visibles
+- ✅ Información de contacto completa
 
 ## Próximas Mejoras
 - Portal de cliente (MVP)
