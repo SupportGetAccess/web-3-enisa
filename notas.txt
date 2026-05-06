@@ -189,3 +189,57 @@ NOTAS ADICIONALES
 - El formulario valida client-side (no envía a ningún servidor)
 
 ================================================================================
+MEJORAS PROPUESTAS (Comparación con competidores)
+================================================================================
+
+Comparado con: J.B. Hunt, Flexport, ShipBob, Easyship, ShipStation
+
+--- ALTA PRIORIDAD ---
+
+1. PORTAL DE CLIENTES
+   - Competidores tienen: J.B. Hunt 360°, Flexport - plataforma online
+   - Beneficio: Clientes gestionan envíos 24/7
+   - Estado: PENDIENTE
+
+2. COTIZADOR ONLINE
+   - Competidores tienen: Easyship, ShipStation - cálculo instantáneo
+   - Beneficio: Captura leads automáticamente
+   - Estado: PENDIENTE
+
+3. SEGUIMIENTO EN TIEMPO REAL
+   - Competidores tienen: Tracking por SKU/envío
+   - Beneficio: Aumenta confianza del cliente
+   - Estado: PENDIENTE
+
+--- MEDIA PRIORIDAD ---
+
+4. BLOG/RECURSOS
+   - Competidores: Flexport, J.B. Hunt - artículos de comercio exterior
+   - Beneficio: SEO y autoridad en el sector
+   - Estado: PENDIENTE
+
+5. CALCULADORA DE ARANCELES
+   - Competidores: Flexport Tariff Simulator
+   - Beneficio: Herramienta valiosa para clientes
+   - Estado: PENDIENTE
+
+6. TESTIMONIOS EN VIDEO
+   - Competidores: Varios competidores
+   - Beneficio: Mayor credibilidad
+   - Estado: PENDIENTE
+
+7. FAQ INTERACTIVO
+   - Competidores: ShipStation - preguntas frecuentes
+   - Beneficio: Reduce consultas al equipo
+   - Estado: PENDIENTE
+
+--- BAJA PRIORIDAD ---
+
+8. Chat en vivo con IA
+9. Integración WhatsApp Business
+10. Casos de estudio
+11. Badges de certificaciones (ISO)
+12. Sección de carreras/empleo
+13. Multiidioma (español/inglés)
+
+================================================================================
